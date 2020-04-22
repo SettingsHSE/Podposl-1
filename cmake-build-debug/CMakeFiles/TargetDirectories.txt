@@ -1,0 +1,3 @@
+C:/Users/sofik/CLionProjects/Podposl2/cmake-build-debug/CMakeFiles/Podposl2.dir
+C:/Users/sofik/CLionProjects/Podposl2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sofik/CLionProjects/Podposl2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
